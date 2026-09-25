@@ -9,9 +9,8 @@ Unfortunately, the domain was never bought until September 24th, 2026. This purc
 * If you are looking for Nintendo, visit [nintendo.com](https://www.nintendo.com).
 * If you are looking for Nintendo Network, visit [id.nintendo.net](https://id.nintendo.net).
 * For more information on Nintendo Network, visit [this page](https://www.nintendo.com/support/nnid/en/).
-* If you are looking for the Miiverse service, it is no longer available. You can see an archive of the shutdown message [on the Wayback Machine](https://web.archive.org/web/20190311224941/https://miiverse.nintendo.net/en/).
+* If you are looking for the Miiverse service, it is no longer available. To see an archive of the shutdown message, visit [the archived page on the Wayback Machine](https://web.archive.org/web/20190311224941/https://miiverse.nintendo.net/en/). To see an archive of Miiverse posts, visit [archiverse.pretendo.network](https://archiverse.pretendo.network).
 * For more information on Miiverse, visit [the (unofficial) Miiverse Clonapedia's article](https://sites.google.com/site/mvclonapedia/articles/miiverse).
-* To see an archive of Miiverse posts, visit [archiverse.pretendo.network](https://archiverse.pretendo.network).
 * If you are looking for Pretendo Network, visit [pretendo.network](https://pretendo.network).
 * If you are looking for Juxtaposition, visit [juxt.pretendo.network](https://juxt.pretendo.network).
 * If you are looking for Juxtaposition's source code, visit [the GitHub repository](https://github.com/PretendoNetwork/juxtaposition).
